@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DataStructures",
+        "repositoryURL": "git@github.com:qiweipeng/DataStructures.git",
+        "state": {
+          "branch": null,
+          "revision": "93bafe417acc48bf02a444aaca5d5692d8c74201",
+          "version": "1.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
